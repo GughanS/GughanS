@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm **Gughan S** (He/Him)
+# Hi there, I'm **Gughan S** (He/Him)
 
 ---
 
-## 🧠 About Me:
+## About Me:
 
-🎓 **Aspiring AI/ML Engineer** from Chennai, Tamil Nadu, India
+ **Aspiring AI/ML Engineer** from Chennai, Tamil Nadu, India
 
-💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
+ Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 
-🚀 Love researching and building solutions that solve **real-world problems using AI/ML**
+ Love researching and building solutions that solve **real-world problems using AI/ML**
 
-🌱 Currently learning **Deep Learning**, **Computer Vision**, and **Model Deployment**
+ Currently learning **Deep Learning**, **Computer Vision**, and **Model Deployment**
 
 ---
 
-## 🌐 Connect With Me:
+##  Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gughan-s)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gughanguguu@gmail.com)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 ![Gughan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GughanS&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects:
+##  Featured Projects:
 
 - **semantic-eye**: Multimodal Video Search using CLIP & Optical Flow - https://github.com/GughanS/semantic-eye.git
 - **ai-plant-doctot**: AI-powered plant disease detection - https://github.com/GughanS/ai-plant-doctor.git
@@ -44,16 +44,16 @@
 
 ---
 
-## 🏆 Achievements & Certifications:
+##  Achievements & Certifications:
 
-- 🥇 Kaggle Competitions - Active competitor and notebook creator
-- 💻 LeetCode - Consistently solving algorithmic problems
-- 📚 Open Source Contributions - Contributing to AI/ML community
-- 🎯 Continuous Learner - Actively pursuing new skills and certifications
+-  Kaggle Competitions - Active competitor and notebook creator
+-  LeetCode - Consistently solving algorithmic problems
+-  Open Source Contributions - Contributing to AI/ML community
+-  Continuous Learner - Actively pursuing new skills and certifications
 
 ---
 
-## ⚙️ Tech Stack:
+##  Tech Stack:
 
 **Languages:** Python, Java, C, SQL
 
@@ -69,26 +69,26 @@
 
 ---
 
-## 💼 What I'm Looking For:
+##  What I'm Looking For:
 
-- 🤝 **Collaboration** on AI/ML projects and open-source initiatives
+-  **Collaboration** on AI/ML projects and open-source initiatives
 
-- 💬 **Mentorship** in advanced ML techniques and best practices
+-  **Mentorship** in advanced ML techniques and best practices
 
-- 🌟 **Opportunities** to work on impactful AI/ML solutions
-
----
-
-## 📈 My Commitment:
-
-🔄 Continuously learning and improving my skills
-
-🎯 Building projects that create real-world impact
-
-🤲 Giving back to the community through knowledge sharing
+-  **Opportunities** to work on impactful AI/ML solutions
 
 ---
 
-⭐ *"Transforming data into intelligence, and intelligence into impact."*
+##  My Commitment:
 
-Feel free to reach out if you'd like to collaborate or have any questions! 🚀
+ Continuously learning and improving my skills
+
+ Building projects that create real-world impact
+
+ Giving back to the community through knowledge sharing
+
+---
+
+ *"Transforming data into intelligence, and intelligence into impact."*
+
+Feel free to reach out if you'd like to collaborate or have any questions! 
