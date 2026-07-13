@@ -36,9 +36,9 @@
 
 ##  Featured Projects:
 
-- **semantic-eye**: Multimodal Video Search using CLIP & Optical Flow - https://github.com/GughanS/semantic-eye.git
-- **ai-plant-doctot**: AI-powered plant disease detection - https://github.com/GughanS/ai-plant-doctor.git
-- **churn-prediction**: Machine Learning prediction model - https://github.com/GughanS/churn_prediction.git
+- **Semantic-eye**: Multimodal Video Search using CLIP & Optical Flow - https://github.com/GughanS/semantic-eye.git
+- **AI Recruiter** — Intelligent Candidate Parser & Multi-Signal Ranker - https://github.com/GughanS/ai-recruiter.git
+- **mlops-automated-pipeline**: End-to-End MLOps Pipeline: Financial Fraud Detection - https://github.com/GughanS/mlops-automated-pipeline.git
 
 *Check out my repositories for more projects!*
 
