@@ -7,7 +7,7 @@
 Based in Chennai, Tamil Nadu, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gughan-s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gughanguguu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gughan3001@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gughangugu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gughangugu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GughanS)
@@ -85,12 +85,9 @@ I am an aspiring AI/ML engineer with a strong interest in turning complex data i
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </details>
 
-## GitHub at a Glance
+## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GughanS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Gughan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GughanS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Gughan's most-used languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=GughanS&theme=tokyonight&hide_border=true" alt="Gughan's contribution streak" />
 </div>
 
@@ -101,5 +98,5 @@ I value curiosity, disciplined experimentation, and clear communication. My goal
 > Transforming data into intelligence, and intelligence into impact.
 
 <div align="center">
-  <sub>Interested in collaborating on an AI or machine learning project? <a href="mailto:gughanguguu@gmail.com">Let's connect</a>.</sub>
+  <sub>Interested in collaborating on an AI or machine learning project? <a href="mailto:gughan3001@gmail.com">Let's connect</a>.</sub>
 </div>
