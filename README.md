@@ -32,9 +32,9 @@ I am an aspiring AI/ML engineer with a strong interest in turning complex data i
       <p align="center"><a href="https://github.com/GughanS/semantic-eye"><strong>Explore repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">AI Recruiter</h3>
-      <p align="center">An intelligent candidate parser and multi-signal ranking system designed to streamline talent evaluation.</p>
-      <p align="center"><a href="https://github.com/GughanS/ai-recruiter"><strong>Explore repository</strong></a></p>
+      <h3 align="center">Wheel Eye</h3>
+      <p align="center">Automated Visual Inspection for High-Speed Automotive Assembly</p>
+      <p align="center"><a href="https://github.com/GughanS/wheeleye"><strong>Explore repository</strong></a></p>
     </td>
   </tr>
   <tr>
