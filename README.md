@@ -2,101 +2,147 @@
 
 # Gughan S
 
-### AI & Machine Learning Engineer | Building practical, data-driven systems
+### Applied Machine Learning · Python Backend Engineering
 
-Based in Chennai, Tamil Nadu, India
+Building AI applications and the services behind them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gughan-s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gughan3001@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gughangugu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gughangugu/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GughanS)
+**Chennai, India · B.Tech AI & ML, Class of 2027**
+
+<br />
+
+<a href="https://www.linkedin.com/in/gughan-s">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" />
+</a>
+&nbsp;
+<a href="https://portfolio-livid-nu-56.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-334155?style=flat-square" alt="Explore my portfolio" />
+</a>
+&nbsp;
+<a href="mailto:gughanguguu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-475569?style=flat-square" alt="Contact me by email" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Gughangugu/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-B7791F?style=flat-square" alt="View my LeetCode profile" />
+</a>
 
 </div>
+
+<br />
 
 ## About
 
-I am an aspiring AI/ML engineer with a strong interest in turning complex data into useful products. My work spans machine learning, computer vision, data analysis, and deployment-oriented engineering. I enjoy researching practical approaches, building end-to-end solutions, and learning the technologies that make intelligent systems reliable in the real world.
+I'm an Artificial Intelligence and Machine Learning undergraduate at
+**Saveetha Engineering College**, graduating in **2027**.
 
-- Focus areas: machine learning, deep learning, computer vision, NLP, and MLOps
-- Currently developing: model deployment skills and production-minded ML workflows
-- Open to: AI/ML collaborations, open-source work, mentorship, and impactful engineering opportunities
+My interests sit at the intersection of **applied ML and backend
+engineering**: processing data, serving models through APIs, and building
+workflows around deployment and monitoring.
 
-## Selected Work
+Previously, I interned in **AI Engineering at Pearlthoughts**, working
+on model integration, REST inference APIs, and deployment workflows.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Semantic Eye</h3>
-      <p align="center">A multimodal video-search system that combines CLIP embeddings with optical flow to make video content more discoverable.</p>
-      <p align="center"><a href="https://github.com/GughanS/semantic-eye"><strong>Explore repository</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Wheel Eye</h3>
-      <p align="center">Automated Visual Inspection for High-Speed Automotive Assembly</p>
-      <p align="center"><a href="https://github.com/GughanS/wheeleye"><strong>Explore repository</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Automated MLOps Pipeline</h3>
-      <p align="center">An end-to-end machine learning pipeline for financial fraud detection, from data preparation to automated workflows.</p>
-      <p align="center"><a href="https://github.com/GughanS/mlops-automated-pipeline"><strong>Explore repository</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">What I Build</h3>
-      <p align="center">Applied ML projects that connect strong experimentation with clear user value and reproducible engineering practices.</p>
-      <p align="center"><a href="https://github.com/GughanS?tab=repositories"><strong>View all repositories</strong></a></p>
-    </td>
-  </tr>
-</table>
+**Seeking internships and 2027 graduate opportunities in AI/ML
+engineering, Python backend development, and software engineering.**
+
+---
+
+## Selected Projects
+
+### WheelEye
+**Computer vision · Model serving · Observability**
+
+A visual inspection application for checking automotive component
+configurations and detecting assembly defects.
+
+- Developed the inspection workflow using PyTorch and OpenCV.
+- Used ONNX Runtime for model inference and FastAPI for API serving.
+- Added Docker packaging, Prometheus/Grafana monitoring, and
+  GitHub Actions workflows.
+
+`Python` `PyTorch` `ONNX Runtime` `OpenCV` `FastAPI` `Docker`
+
+[Explore WheelEye →](https://github.com/GughanS/wheeleye)
+
+<br />
+
+### Semantic Eye
+**Multimodal retrieval · Video processing · Backend APIs**
+
+A natural-language video search application combining semantic
+retrieval with motion-based verification.
+
+- Used CLIP embeddings to match text queries with video content.
+- Indexed embeddings with LanceDB for vector retrieval.
+- Combined optical-flow processing with a FastAPI retrieval backend.
+
+`Python` `CLIP` `LanceDB` `OpenCV` `FastAPI` `React`
+
+[Explore Semantic Eye →](https://github.com/GughanS/semantic-eye)
+
+<br />
+
+### Financial Fraud Detection Pipeline
+**ML workflows · Experiment tracking · Drift monitoring**
+
+An MLOps project connecting fraud-model training, API deployment,
+experiment tracking, and monitoring.
+
+- Built model-training and inference workflows using Scikit-learn
+  and FastAPI.
+- Integrated MLflow for experiment tracking and Evidently AI
+  for drift monitoring.
+- Used Docker and GitHub Actions for deployment and CI/CD workflows.
+
+`Python` `Scikit-learn` `FastAPI` `MLflow` `Evidently AI` `Docker`
+
+[Explore the MLOps Pipeline →](https://github.com/GughanS/mlops-automated-pipeline)
+
+---
 
 ## Technical Toolkit
 
-<details open>
-  <summary><strong>Languages</strong></summary>
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</details>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Machine Learning** | PyTorch, Scikit-learn, Pandas, NumPy |
+| **Vision & Retrieval** | OpenCV, CLIP, ONNX Runtime, LanceDB |
+| **Backend** | FastAPI, REST APIs, SQLAlchemy |
+| **Databases** | PostgreSQL, Redis, MongoDB, MySQL |
+| **MLOps & Engineering** | Docker, GitHub Actions, MLflow, Evidently AI, Git |
+| **Monitoring** | Prometheus, Grafana |
 
-<details open>
-  <summary><strong>Machine Learning & Data</strong></summary>
-  <br />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</details>
+---
 
-<details open>
-  <summary><strong>Engineering, Cloud & Databases</strong></summary>
-  <br />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</details>
+## Experience & Education
 
-## GitHub Activity
+**AI Engineering Intern · Pearlthoughts**  
+January 2026 – February 2026
+
+Worked on integrating ML models into application backends,
+REST inference APIs, and Docker/CI/CD deployment workflows.
+
+<br />
+
+**B.Tech · Artificial Intelligence & Machine Learning**  
+Saveetha Engineering College, Chennai · 2023–2027  
+CGPA: **8.06/10**
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GughanS&theme=tokyonight&hide_border=true" alt="Gughan's contribution streak" />
-</div>
 
-## Approach
+### Let's connect
 
-I value curiosity, disciplined experimentation, and clear communication. My goal is to build AI systems that are not only technically sound, but also useful, understandable, and ready to create measurable impact.
+Interested in AI applications, Python backend systems,
+and early-career engineering opportunities.
 
-> Transforming data into intelligence, and intelligence into impact.
+[LinkedIn](https://www.linkedin.com/in/gughan-s)
+&nbsp;·&nbsp;
+[Portfolio](https://portfolio-livid-nu-56.vercel.app)
+&nbsp;·&nbsp;
+[Email](mailto:gughan3001@gmail.com)
+&nbsp;·&nbsp;
+[Kaggle](https://www.kaggle.com/gughangugu)
 
-<div align="center">
-  <sub>Interested in collaborating on an AI or machine learning project? <a href="mailto:gughan3001@gmail.com">Let's connect</a>.</sub>
 </div>
